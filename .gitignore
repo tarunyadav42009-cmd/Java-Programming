@@ -1,0 +1,9 @@
+# Ignore all compiled Java bytecode
+*.class
+
+# Ignore crash logs
+*.log
+
+# OS-specific hidden files
+.DS_Store
+Thumbs.db
